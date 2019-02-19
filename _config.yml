@@ -12,7 +12,7 @@ baseurl: "/youknownothing" # the subpath of your site, e.g. /blog/
 
 repository: mia9b517/mia9b517.github.io
 github_url: https://github.com/mia9b517
-url: https://mia9b517.github.io
+url: https://youknownothing.github.io
 
 # Build settings
 markdown: kramdown
